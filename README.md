@@ -1,4 +1,4 @@
-# Chtify - Advanced-Programming project
+# Chtify 
 
 ## Description
 
